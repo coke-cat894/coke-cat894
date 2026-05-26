@@ -37,36 +37,7 @@ I have around **three years of work experience in China** in data-related roles,
 
 ## 🛠️ Tech Stack | 技术栈
 
-### Programming & Data Processing
-
-- Python 🐍
-- SQL
-- Linux
-- Shell Basics
-- Data Cleaning
-- Web Crawling
-
-### Big Data
-
-- Hadoop
-- Hive
-- HDFS
-- Big Data Processing
-- ETL Workflow
-
-### Databases
-
-- MySQL
-- MangoDB
-- Redis
-- Other relational and non-relational databases
-
-### Tools
-
-- Git & GitHub
-- PyCharm
-- VS Code
-- Linux Environment
+`Python` `SQL` `Linux` `Hadoop` `Hive` `HDFS` `ETL`  `MySQL` `Redis` `MangoDB` 
 
 ---
 
@@ -74,44 +45,15 @@ I have around **three years of work experience in China** in data-related roles,
 
 目前我正在重点关注和学习：
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🧩 AI Agent
-- 🛠️ Agent Skills
-- 📊 Data Science
-- 🔍 Data Analysis
-- 🏗️ Data Engineering
+- 🤖 Artificial Intelligence 🧠 Machine Learning 🧩 AI Agent 🛠️ Agent Skills
+- 📊 Data Science 🔍 Data Analysis 🏗️ Data Engineering
 
 I am especially interested in how data engineering, machine learning, and AI agents can be combined to solve real-world problems.
 
 ---
 
-## 📌 What I'm Working On | 我正在做什么
-
-- Building data science and machine learning projects
-- Improving my Python and data analysis skills
-- Exploring AI agents and practical AI applications
-- Organizing previous work experience into GitHub projects
-- Learning how to write cleaner and more reusable code
-
----
-
-## 🌱 Learning Goals | 学习目标
-
-我希望未来能够在以下方向持续进步：
-
-- 写出更规范、更可复用的数据处理代码
-- 提升机器学习建模与评估能力
-- 深入理解 AI Agent 的实际应用场景
-- 将数据工程经验与 AI 技术结合起来
-- 构建更多完整、可展示的数据科学项目
-
-My goal is to grow into a data professional who can combine **data engineering**, **machine learning**, and **AI applications** to build practical and meaningful solutions.
-
----
-
 ## 📫 Contact | 联系我
-
+chenliexing2000@gmail.com
 Feel free to connect with me on GitHub.
 
 欢迎通过 GitHub 了解我的项目和学习记录。
